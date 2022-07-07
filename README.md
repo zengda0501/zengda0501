@@ -2,7 +2,6 @@
     <img src='https://github.com/smirnovvvasyl/smirnovvvasyl/blob/master/assets/code.gif'>
 </div>
 
-
 <h2 font-weight="bold" style="display: block; text-align: center; margin-top: 100px;">My Skills</h2>
 
 <table>
